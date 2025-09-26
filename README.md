@@ -150,4 +150,10 @@ Downloads are performed on the client using JSZip + file-saver, fetching assets 
 
 ---
 
-## Project Structure
+## 🌐 Connect With Me  
+
+<p align="left">
+<a href="https://github.com/kkundanI"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/></a>
+<a href="https://www.linkedin.com/in/kundan-kumar-b89268212/"><img src="https://img.icons8.com/ios-filled/30/0077b5/linkedin.png"/></a>
+<a href="kkundangrd2003@gmail.com"><img src="https://img.icons8.com/ios-glyphs/30/000000/gmail.png"/></a>
+</p>
