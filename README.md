@@ -150,6 +150,15 @@ Downloads are performed on the client using JSZip + file-saver, fetching assets 
 
 ---
 
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkundanI&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkundanI&layout=compact&theme=radical)  
+![Streak Stats](https://streak-stats.demolab.com/?user=kkundanI&theme=radical)  
+
+---
+
+
 ## 🌐 Connect With Me  
 
 <p align="left">
